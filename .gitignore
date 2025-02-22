@@ -5,3 +5,14 @@ venv/
 __pycache__/
 *.pyc
 *.pyo
+# Ignore virtual environments
+Lib/
+Scripts/
+pyvenv.cfg
+# Ignore Jupyter
+etc/
+share/
+# Ignore common OS & Python files
+__pycache__/
+*.pyc
+.DS_Store
