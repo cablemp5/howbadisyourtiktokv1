@@ -1,4 +1,4 @@
-<a href="https://how-bad-is-your-tiktok.streamlit.app/">
+<a href="https://howbadisyourtiktok.streamlit.app/">
   <img src="https://i.postimg.cc/FFZX7Ndp/Screenshot-2025-02-22-140307-Photoroom-3.png" alt="Banner"/>
 </a>
 
@@ -28,13 +28,13 @@
     
 ## Overview
 
-Curious what AI really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will dive into your liked videos and provide a brutally honest—and painfully accurate—assessment of your digital footprint.
+Curious what A.I. really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will judge your liked videos and provide a brutally honest—and painfully accurate—assessment of your digital footprint.
 
-[https://how-bad-is-your-tiktok.streamlit.app/](https://how-bad-is-your-tiktok.streamlit.app/)
+[https://howbadisyourtiktok.streamlit.app/](https://howbadisyourtiktok.streamlit.app/)
 
 ## Usage
 
-Check out the site and follow the instructions [here!](https://how-bad-is-your-tiktok.streamlit.app/)
+Check out the site and follow the instructions [here!](https://howbadisyourtiktok.streamlit.app/)
 
 <img src="https://i.postimg.cc/TwB0Pyj1/image-1.png" alt="Demo" width="600"/>
 
