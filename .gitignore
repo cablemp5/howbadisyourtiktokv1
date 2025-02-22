@@ -16,3 +16,6 @@ share/
 __pycache__/
 *.pyc
 .DS_Store
+# Ignore prompt
+prompt.txt
+
