@@ -245,7 +245,7 @@ with st.container(border=True):
   st.session_state.uploaded_file = st.file_uploader(
       "**Upload the .zip file containing your TikTok Data:**", type=".zip",
       accept_multiple_files=False,
-      help="Check the Help section to learn how to download the correct data"
+      help="Check the Help section to learn how to download the correct data",
   )
 
 
