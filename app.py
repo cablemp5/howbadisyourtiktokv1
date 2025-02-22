@@ -181,7 +181,7 @@ st.set_page_config(
 st.image("https://i.postimg.cc/BnLW2WLk/favicon.png", width=100)
 st.title("How Bad Is Your Tiktok?")
 st.write(
-    'Curious what **AI** really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will dive into your liked videos and provide a brutally honest—*and painfully accurate*—assessment of your digital footprint.')
+    'Curious what **A.I.** really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will judge your liked videos and provide a brutally honest—*and painfully accurate*—assessment of your digital footprint.')
 st.info(
     "This project was heavily inspired by [**How Bad Is Your Streaming Music?**](https://pudding.cool/2021/10/judge-my-music/) by The Pudding!",
     icon="✨")
