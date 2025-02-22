@@ -24,21 +24,18 @@
   •
   <a href="#license">License</a>
 </p>
-
-
- 
-<p align=center> This website is still under development! There may be bugs that cause the bot to not function!</p>
-
     
-# Overview
+## Overview
 
 Curious what AI really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will dive into your liked videos and provide a brutally honest—and painfully accurate—assessment of your digital footprint.
 
-# Usage
+## Usage
 
 Check out the site and follow the instructions [here!](https://how-bad-is-your-tiktok.streamlit.app/)
 
-# Technologies
+<img src="https://i.postimg.cc/TwB0Pyj1/image-1.png" alt="Demo" width="600"/>
+
+## Technologies
 
 This software uses the following API's and libraries:
 
@@ -49,10 +46,10 @@ This software uses the following API's and libraries:
 - [**Pandas**](https://github.com/google/gson)
   - Data analysis and manipulation tool
   
-# Bugs and Support
+## Bugs and Support
 
 If you encounter any bugs, or want to request a new feature, leaving an issue or messaging me on Discord is the fastest way to reach me. My discord user is `cablemp5`
 
-# License
+## License
 
 "How Bad Is Your TikTok" is an open source project released under the [MIT License](LICENSE), and contributions are more than welcome. It's also an Emailware, so feel free to email me at [cmikec12@gmail.com](cmikec12@gmail.com) 
