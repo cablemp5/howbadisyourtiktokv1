@@ -180,7 +180,7 @@ st.set_page_config(
     page_icon="🧠",
 )
 
-st.image("https://i.postimg.cc/0QNd7xsG/New-Project2.png", width=100)
+st.image("https://i.postimg.cc/cJpQBxrY/mylogo-1.png", width=100)
 st.title("How Bad Is Your Tiktok?")
 st.write(
     'Curious what **AI** really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will dive into your liked videos and provide a brutally honest—*and painfully accurate*—assessment of your digital footprint.')
