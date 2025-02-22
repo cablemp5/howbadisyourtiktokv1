@@ -190,6 +190,9 @@ st.info(
 st.warning(
     "By using this website, you acknowledge that analyzing your TikTok activity requires uploading your TikTok data and, optionally, providing a Gemini API key. All data remains private and is neither stored nor viewed by anyone other than you and Google's Gemini AI. For your security, please avoid including any personally identifiable information in the data you upload. Additionally, if you choose to use a Gemini API key, we recommend generating a new key that is not linked to any other projects to ensure the integrity and security of your data.",
     icon='⚠️')
+st.success(
+    "   If you are on mobile, turn on wide mode located in the settings in the top right for the best user experience!",
+    icon='👀')
 
 with st.container(border=True):
   st.write("**📂  How To Download And Analyze Your TikTok Data:**")
@@ -251,11 +254,27 @@ with st.container(border=True):
 
   col1, col2 = st.columns([0.65,0.35],gap="small")
   with col2.popover("**Additional Settings**", icon="⚙️",use_container_width=True):
-    to_parse = st.slider("**Number of videos to scan**:", min_value=1, max_value=10000, value=5000,
+    st.markdown(
+        """
+        <style>
+        [data-testid="stSliderTickBarMin"] {
+          font-family:Source Sans Pro, sans-serif;
+        }
+        [data-testid="stSliderThumbValue"] {
+          font-family:Source Sans Pro, sans-serif;
+        }
+        [data-testid="stSliderTickBarMax"] {
+          font-family:Source Sans Pro, sans-serif;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+    to_parse = st.slider("**📺 Number of videos to scan**:", min_value=1, max_value=10000, value=5000,
                          help="Default: 5000 videos")
-    to_analyze = st.slider("**Number of hashtags to analyze:**", min_value=10, max_value=500, value=500,
+    to_analyze = st.slider("**📝 Number of hashtags to scan:**", min_value=10, max_value=500, value=500,
                            help="Default: all hashtags (up to 500)")
-    num_to_show = st.slider("**Number of hashtags/users to preview:**", min_value=3, max_value=100, value=25,
+    num_to_show = st.slider("**👁️‍🗨️ Number of items to preview:**", min_value=3, max_value=100, value=25,
                             help="Default: 25 hashtags/users (up to 100)")
 
   if col1.button(label="**🚀 Analyze your algorithm**", use_container_width=True, type="secondary"):
