@@ -174,7 +174,7 @@ if "checkbox_state" not in st.session_state:
   st.session_state.checkbox_state = False
 
 st.set_page_config(
-    page_title="How bad is your TikTok?",
+    page_title="How Bad Is Your TikTok?",
     page_icon="https://i.postimg.cc/BnLW2WLk/favicon.png",
 )
 
