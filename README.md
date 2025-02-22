@@ -1,5 +1,6 @@
-<img src="https://i.postimg.cc/FFZX7Ndp/Screenshot-2025-02-22-140307-Photoroom-3.png" alt="Banner"/>
-
+<a href="https://how-bad-is-your-tiktok.streamlit.app/">
+  <img src="https://i.postimg.cc/FFZX7Ndp/Screenshot-2025-02-22-140307-Photoroom-3.png" alt="Banner"/>
+</a>
 
 <p align="center">
   <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/github/languages/code-size/cablemp5/how-bad-is-your-tiktok" alt="Github Repo"></a>
@@ -29,6 +30,8 @@
 
 Curious what AI really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will dive into your liked videos and provide a brutally honest—and painfully accurate—assessment of your digital footprint.
 
+[https://how-bad-is-your-tiktok.streamlit.app/](https://how-bad-is-your-tiktok.streamlit.app/)
+
 ## Usage
 
 Check out the site and follow the instructions [here!](https://how-bad-is-your-tiktok.streamlit.app/)
@@ -52,4 +55,4 @@ If you encounter any bugs, or want to request a new feature, leaving an issue or
 
 ## License
 
-"How Bad Is Your TikTok" is an open source project released under the [MIT License](LICENSE), and contributions are more than welcome. It's also an Emailware, so feel free to email me at [cmikec12@gmail.com](cmikec12@gmail.com) 
+"How Bad Is Your TikTok?" is an open source project released under the [MIT License](LICENSE), and contributions are more than welcome. It's also an Emailware, so feel free to email me at [cmikec12@gmail.com](cmikec12@gmail.com) 
