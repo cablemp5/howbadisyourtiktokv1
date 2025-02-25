@@ -30,11 +30,11 @@
 
 Curious what A.I. really thinks of your TikTok feed? This self-proclaimed "content-connoisseur" will judge your liked videos and provide a brutally honest—and painfully accurate—assessment of your digital footprint.
 
-[https://howbadisyourtiktok.streamlit.app/](https://howbadisyourtiktok.streamlit.app/)
+[https://howbadisyourtiktok.streamlit.app/](https://howbadisyourtiktokv1.streamlit.app/)
 
 ## Usage
 
-Check out the site and follow the instructions [here!](https://howbadisyourtiktok.streamlit.app/)
+Check out the site and follow the instructions [here!](https://howbadisyourtiktokv1.streamlit.app/)
 
 <img src="https://i.postimg.cc/TwB0Pyj1/image-1.png" alt="Demo" width="600"/>
 
