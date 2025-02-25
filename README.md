@@ -3,15 +3,15 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/github/languages/code-size/cablemp5/how-bad-is-your-tiktok" alt="Github Repo"></a>
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/badge/python-3.9.13-blue?logo=python" alt="Python"></a>
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/badge/status-up-green" alt="Website Status"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1"><img src="https://img.shields.io/github/languages/code-size/cablemp5/howbadisyourtiktokv1" alt="Github Repo"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1"><img src="https://img.shields.io/badge/python-3.9.13-blue?logo=python" alt="Python"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1"><img src="https://img.shields.io/badge/status-up-green" alt="Website Status"></a>
 <p/>
   
 <p align="center">
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/github/license/cablemp5/how-bad-is-your-tiktok" alt="License"></a>
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok"><img src="https://img.shields.io/github/issues/cablemp5/how-bad-is-your-tiktok" alt="Issues"></a>
-  <a href="https://github.com/cablemp5/how-bad-is-your-tiktok/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="Pull Requests"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1"><img src="https://img.shields.io/github/license/cablemp5/howbadisyourtiktokv1" alt="License"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1"><img src="https://img.shields.io/github/issues/cablemp5/howbadisyourtiktokv1" alt="Issues"></a>
+  <a href="https://github.com/cablemp5/howbadisyourtiktokv1/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen" alt="Pull Requests"></a>
 <p/>
 
 <p align="center">
